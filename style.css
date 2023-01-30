@@ -1,0 +1,18 @@
+.foto-perfil{
+    width: 210PX;
+    height: 210px;
+    border-radius: 1000px;
+}
+.cabeçalho{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding: 0px;
+    margin-bottom: 48px;
+    position: fixed;
+    top: 0;
+    width: 100%;}
+.foto-perfil:hover{
+    
+        scale: 110%;
+        transition: 0.2s;}
