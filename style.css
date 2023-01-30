@@ -6,7 +6,7 @@
 .cabeçalho{
     display: flex;
     flex-direction: row;
-    justify-content: flutfftiuex-start;
+    justify-content: flex-start;
     padding: 0px;
     margin-bottom: 48px;
     position: fixed;
