@@ -1,7 +1,11 @@
+body{
+    font-size: 100%;
+    background-color: rgb(0, 0, 0);
+}
 .foto-perfil{
-    width: 210PX;
-    height: 210px;
-    border-radius: 1000px;
+    width: 75PX;
+    height: 75px;
+    border-radius: 50%;
 }
 .cabeçalho{
     display: flex;
@@ -11,8 +15,48 @@
     margin-bottom: 48px;
     position: fixed;
     top: 0;
-    width: 100%;}
+    width: 100%;
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+    align-items: center;
+    }
 .foto-perfil:hover{
-    
-        scale: 110%;
-        transition: 0.2s;}
+    scale: 110%;
+transition: 0.2s;}
+.contato{
+    margin-top: 12%;
+    background-color: blue;
+    width: 8%;
+    color:white;
+    display: flex;
+    margin-bottom: 15px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5.66229px 11.3246px;
+    gap: 9.44px;
+    width: 120.65px;
+    height: 30px;
+    left: 47.19px;
+    top: 152.88px;
+    /* Black */
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+}
+.Perfil{
+    margin-top: 12%;
+    background-color: blue;
+    width: 8%;
+    color:white;
+    display: flex;
+    margin-bottom: 15px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5.66229px 11.3246px;
+    gap: 9.44px;
+    width: 120.65px;
+    height: 30px;
+    left: 47.19px;
+    top: 261.41px;
+    /* Black */
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+}
