@@ -42,12 +42,69 @@ transition: 0.2s;}
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
 }
 .Perfil{
-    margin-top: 12%;
+    margin-top: 3%;
     background-color: blue;
     width: 8%;
     color:white;
     display: flex;
-    margin-bottom: 15px;
+    margin-bottom: 4px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5.66229px 11.3246px;
+    gap: 9.44px;
+    width: 120.65px;
+    height: 30px;
+    left: 47.19px;
+    top: 261.41px;
+    /* Black */
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+}
+.carreira{
+    margin-top: 3%;
+    background-color: blue;
+    width: 8%;
+    color:white;
+    display: flex;
+    margin-bottom: 4px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5.66229px 11.3246px;
+    gap: 9.44px;
+    width: 120.65px;
+    height: 30px;
+    left: 47.19px;
+    top: 261.41px;
+    /* Black */
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+}
+.estudos{
+    margin-top: 3%;
+    background-color: blue;
+    width: 8%;
+    color:white;
+    display: flex;
+    margin-bottom: 4px;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5.66229px 11.3246px;
+    gap: 9.44px;
+    width: 120.65px;
+    height: 30px;
+    left: 47.19px;
+    top: 261.41px;
+    /* Black */
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+}
+.certificado{
+    margin-top: 3%;
+    background-color: blue;
+    width: 8%;
+    color:white;
+    display: flex;
+    margin-bottom: 4px;
     flex-direction: row;
     justify-content: center;
     align-items: center;
