@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;500&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
 body{
     font-size: 100%;
     background-color: rgb(11, 0, 67);
     color: white;
-
 }
 html{
     scroll-behavior: smooth;
@@ -177,9 +180,10 @@ transition: 0.2s;}
 main{
     margin-left: 3%;
 }
-.nomes{
+.nomes h1, h3{
     margin-left: 7%;
     width: 500px;
+    font-weight: 100;
 }
 
 .quadrado-foto {
@@ -238,4 +242,7 @@ nav li:hover ul:hover{
 }
 #hobby{
     scroll-margin-block-start: 140px;
+}
+.faculdade{
+    margin-top: -20px;
 }
