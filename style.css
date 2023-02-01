@@ -218,3 +218,24 @@ nav li:hover ul:hover{
     background-color: rgba(255, 255, 255,00.2s);
     font-size: 10px;
 }
+#contato{
+    scroll-margin-block-start: 140px;
+}
+#Perfil{
+    scroll-margin-block-start: 140px;
+}
+#Carreira{
+    scroll-margin-block-start: 140px;
+}
+#estudos{
+    scroll-margin-block-start: 140px;
+}
+#certifcados{
+    scroll-margin-block-start: 140px;
+}
+#habilidades{
+    scroll-margin-block-start: 140px;
+}
+#hobby{
+    scroll-margin-block-start: 140px;
+}
