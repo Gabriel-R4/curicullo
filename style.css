@@ -4,6 +4,9 @@ body{
     color: white;
 
 }
+html{
+    scroll-behavior: smooth;
+}
 .foto-perfil{
     width: 75PX;
     height: 75px;
@@ -23,6 +26,7 @@ body{
     width: 100%;
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
     align-items: center;
+    margin-left: -1%;
     }
 .foto-perfil:hover{
     scale: 110%;
@@ -206,4 +210,11 @@ nav ul{
     list-style: none;
     display: flex;
     gap: 2rem;
+    font-style: normal;
+}
+nav li:hover ul:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    background-color: rgba(255, 255, 255,00.2s);
+    font-size: 10px;
 }
