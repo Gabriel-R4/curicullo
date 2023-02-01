@@ -1,6 +1,7 @@
 body{
     font-size: 100%;
     background-color: rgb(11, 0, 67);
+    color: white;
 
 }
 .foto-perfil{
@@ -200,4 +201,9 @@ main{
 }
 ::-webkit-scrollbar-thumb:hover{
     background-color:   #00c6ff;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
 }
