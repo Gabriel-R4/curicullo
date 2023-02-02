@@ -130,7 +130,7 @@ transition: 0.2s;}
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(44, 108, 172, 0.98) 0.1%, rgba(0,7,128,1) 99.8% );
 }
 .habilidades{
-    margin-top: 3%;
+    margin-top: 4%;
     background-color: blue;
     width: 8%;
     color:white;
@@ -235,7 +235,7 @@ nav li:hover ul:hover{
     scroll-margin-block-start: 140px;
 }
 #certifcados{
-    scroll-margin-block-start: 140px;
+    scroll-margin-block-start: 110px;
 }
 #habilidades{
     scroll-margin-block-start: 140px;
